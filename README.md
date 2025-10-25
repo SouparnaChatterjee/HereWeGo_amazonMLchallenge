@@ -17,7 +17,7 @@ The model achieved 18–22% SMAPE on validation data using an 80/20 split. Light
 - Incorporate metadata (brand, category)
 - Apply cross-validation-based ensembling for improved stability
 
-## Summary (350 characters)
+## Summary 
 A text-driven ML model predicted optimal e-commerce prices using TF-IDF features, regex-based numeric extraction, and an ensemble of CatBoost, LightGBM, and XGBoost. Trained on log-transformed prices, it achieved 18–22% SMAPE. Future work includes transformer embeddings and metadata.
 
 ---
